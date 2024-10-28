@@ -1,3 +1,3 @@
 #!/bin/bash
-DATE=$(vijay +%F)
+DATE=$(date +%F)
 echo "Today's date: $DATE"
